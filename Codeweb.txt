@@ -1,0 +1,23 @@
+<!DOCTYPE html>git
+<html>
+	<head>
+		<title>My Webpage!</title>
+	</head>
+	<body>
+		Hello, world!
+	<style>
+			div(
+				background - colour: blue;
+				width;100%
+			)
+		</style>			
+		
+		<style> 
+		h1	(
+			colour: black; 
+			text-align: centre: "My Webpage"
+				
+		)
+		</style>
+	</body>
+</html>
